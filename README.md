@@ -11,5 +11,6 @@
 ![React](https://img.shields.io/badge/React-Native-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+![Java](https://img.shields.io/badge/Java-Programming-red)
 
 
