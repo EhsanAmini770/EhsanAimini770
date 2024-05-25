@@ -11,8 +11,8 @@
 ![React](https://img.shields.io/badge/React-Native-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+![C#](https://img.shields.io/badge/C%23-Programming-blue)
 
 ## GitHub Stats
 ![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ehsanamini770&show_icons=true&theme=radical)
